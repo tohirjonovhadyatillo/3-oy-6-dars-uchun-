@@ -1,0 +1,19 @@
+<svg width="20.001709" height="20.001709" viewBox="0 0 20.0017 20.0017" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip2_239">
+			<rect id="Feather Icons/fi:list" rx="-0.416694" width="19.168324" height="19.168324" transform="translate(0.416694 0.416694)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="Feather Icons/fi:list" rx="-0.416694" width="19.168324" height="19.168324" transform="translate(0.416694 0.416694)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip2_239)">
+		<path id="Vector" d="M6.66 15L17.5 15" stroke="#3D3D3D" stroke-opacity="1.000000" stroke-width="1.666776" stroke-linejoin="round" stroke-linecap="round"/>
+		<path id="Vector" d="M2.5 15L2.51 15" stroke="#3D3D3D" stroke-opacity="1.000000" stroke-width="1.666776" stroke-linejoin="round" stroke-linecap="round"/>
+		<path id="Vector" d="M6.66 10L17.5 10" stroke="#3D3D3D" stroke-opacity="1.000000" stroke-width="1.666776" stroke-linejoin="round" stroke-linecap="round"/>
+		<path id="Vector" d="M2.5 10L2.51 10" stroke="#3D3D3D" stroke-opacity="1.000000" stroke-width="1.666776" stroke-linejoin="round" stroke-linecap="round"/>
+		<path id="Vector" d="M6.66 5L17.5 5" stroke="#3D3D3D" stroke-opacity="1.000000" stroke-width="1.666776" stroke-linejoin="round" stroke-linecap="round"/>
+		<path id="Vector" d="M2.5 5L2.51 5" stroke="#3D3D3D" stroke-opacity="1.000000" stroke-width="1.666776" stroke-linejoin="round" stroke-linecap="round"/>
+	</g>
+</svg>
